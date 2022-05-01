@@ -1,2 +1,2 @@
-# Assignment_of_StopWatch
- Assignment of Stopwatch
+# Timer_Stopwatch
+ Assignment Of Timer and StopWatch
